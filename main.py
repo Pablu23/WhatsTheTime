@@ -108,6 +108,7 @@ def main():
             # Its shit but if the q key is pressed the programm closes
             # Problem with this is you have to hold q to hit it when the programm is not frozen
             if keyboard.is_pressed('q'):
+                print("[INFO] Done.")
                 exit()
             time.sleep(1)
 
