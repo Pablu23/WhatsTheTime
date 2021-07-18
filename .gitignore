@@ -1,0 +1,5 @@
+.venv
+.ApiTokens.txt
+keys.py
+.vscode
+__pycache__
